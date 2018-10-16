@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Bananas grow on trees",
+    "answer": false
+  },
+  {
+    "question": "Octopi have three hearts",
+    "answer": true
+  },
+  {
+    "question": "Chewing gum takes seven years for a person to digest",
+    "answer": false
+  },
+  {
+    "question": "Carrots can help you see in the dark",
+    "answer": false
+  },
+  {
+    "question": "Black Holes aren't black",
+    "answer": true
+  },
+  {
+    "question": "It rains diamonds on Jupiter and Saturn",
+    "answer": true
+  },
+  {
+    "question": "Sugar makes children hyper",
+    "answer": false
+  },
+  {
+    "question": "If a piece of paper is folded 45 times, it would reach the moon",
+    "answer": true
+  },
+  {
+    "question": "Russia has a larger surface area than Pluto",
+    "answer": true
+  },
+  {
+    "question": "There are more fake flamingos in the world than real ones",
+    "answer": true
+  }
+]
